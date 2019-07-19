@@ -18,4 +18,9 @@ features = [
   'Window',
   'HtmlElement',
   'Element',
+  'EventListener',
+  'EventTarget',
+  'KeyboardEvent',
+  'MouseEvent',
+  'WheelEvent',
 ]
